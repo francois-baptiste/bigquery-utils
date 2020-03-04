@@ -21,7 +21,7 @@ SCRIPT_DIR="$( cd "$(dirname "$0")" ; pwd -P )"
 UDF_DIR=udfs
 
 # Location for new datasets
-LOCATION=US
+LOCATION=EU
 
 # Set colors if terminal supports it
 ncolors=$(tput colors)
